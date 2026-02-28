@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Pamela Porto, tenho 20 anos e sou do Rio de Janeiro. Estou cursando Ciências da Computação com bolsa de 100% garantida pelo Prouni na UNESA. Sou apaixonada pela área de T.I, desde Hardware, Redes, Dev. Web "[Zyllra](https://www.youtube.com/@zyllraa)".
+Me chamo Pamela Porto, tenho 20 anos e sou do Rio de Janeiro. Estou cursando Ciências da Computação com bolsa de 100% garantida pelo Prouni na UNESA. Ternho um enorme interesse na área de T.I, desde Hardware, Redes, Dev. Web "[Zyllra](https://www.youtube.com/@zyllraa)".
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
